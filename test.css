@@ -1,0 +1,110 @@
+body {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+  }
+h1 {
+  color: rgb(0, 0, 0);
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(222, 165, 165);
+  padding: 10px;
+}
+p {
+  margin: 0;
+  color: rgb(0, 0, 0);
+}
+
+hr.hr1 {
+  border-top: 2px solid rgb(0, 0, 0);
+}
+
+hr.hr2 {
+  border-top: 2px solid rgb(255, 255, 255);
+  width: 996px;
+}
+
+hr.hr3 {
+  width: 1200px;
+height: 0px;
+border: 2px solid;
+}
+
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.profile-1{
+  margin-top: 10px;
+}
+
+.education-1{
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 300;
+}
+
+.education-2{
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 300;
+}
+
+.vl {
+  border-left: 6px solid green;
+  height: 500px;
+}
+
+.work-1{
+  margin-top: 10px;
+  font-size: 24px;
+}
+
+.skill-1{
+  background-color: #678F8D;
+  color:rgb(255, 255, 255);
+  margin-top: 64px;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.skill-2{
+  font-size: 32px;
+  text-align: center;
+  margin-bottom: 14px;
+  margin-top: 20px;
+  font-size: 32px;
+}
+
+.skill-3{
+  /* border: 5px solid; */
+  margin: auto;
+  width:230px;
+  padding: 10px;
+}
+
+.contact-1{
+  background-color: #678F8D;
+  color:rgb(255, 255, 255)
+}
+
+.contact-2{
+  font-size: 32px;
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.contact-3{
+  /* border: 5px solid; */
+  text-align: center;
+  /* list-style-position: inside; */
+  margin: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+.contact-4{
+  margin-top: 20px;
+  font-size: 24px;
+}
